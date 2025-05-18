@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+header h2{
+    color: rgb(197, 0, 0);
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+
+main p{
+    color: rgb(230, 65, 0);
+    text-align: center;
+}
+
+main p:hover{
+    color: aqua;
+    background-color: rgb(218, 51, 0);
+    border-radius: 20px;
+}
+
+main img:hover{
+    transform: scale(1.2);
+}
+
+main{
+    text-align: center;
+}
+
+.Trapper{
+    width: 500px;
+}
+
+.Shtyrmovik{
+    width: 500px;
+}
+
+.Medik{
+    width: 500px;
+}
+
+.Podddershka{
+    width: 500px;
+}
+
+.Monstr{
+    width: 500px;
+}
+
+footer p:hover{
+    color: aqua;
+    background-color: rgb(218, 51, 0);
+    border-radius: 20px;
+}
+
+footer p{
+    color: rgb(230, 65, 0);
+    text-align: center;
+}
